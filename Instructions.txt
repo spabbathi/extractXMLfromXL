@@ -1,0 +1,12 @@
+-- Instructions to generate executable --
+
+ - pip install py2exe
+
+ - From the project root folder execute,
+	>> Python setup.py py2exe
+
+ - Build folder can be deleted
+
+ - Place Certifi folder with cacert.pem file within
+
+ - Now zip dist folder and distribute
